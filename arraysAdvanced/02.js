@@ -1,0 +1,1 @@
+function negativeOrPositive(params) {}
